@@ -20,7 +20,7 @@ Insert the spool into the Phomemo M120 as you would the original.
 
 When not in use, place the entire assembly into the storage box to protect the thermal paper from light and dust.
 
-![Spool in Printer](PXL_20260102_121819343.jpg)
+![Spool in Printer](images/PXL_20260102_121819343.jpg)
 
 ## Compatibility
 
