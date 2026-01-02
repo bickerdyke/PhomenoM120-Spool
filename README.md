@@ -1,5 +1,7 @@
 # Phomeno M120 Spool & Storage Box
 
+![images/Sketch_complete.png]
+
 Are you looking for a better way to organize your Phomemo M120 supplies? This project features a replacement spool for the Phomemo M120 thermal printer, along with a storage box to ... well, store it.
 
 ## Solution
@@ -18,8 +20,16 @@ When not in use, place the entire assembly into the storage box to protect the t
 
 ## Compatibility
 
-- Printer: Phomemo M120 (may fit other models, but untested -— let me know in the comments!).
+- Printer: Phomemo M120 (may fit other models, but untested — let me know in the comments!).
 - Label Width: Designed for standard rolls up to 50mm.
+
+## Dimensions
+
+- Spool: 69 mm L x 50 mm W x 45 mm H
+
+| ![TechDraw Disc right.pdf] | ![TechDraw_Axle.pdf] |
+
+- Box: 79 mm L x 64 mm W x 51,6 mm H
 
 ## Assembly
 
@@ -38,6 +48,14 @@ When not in use, place the entire assembly into the storage box to protect the t
 Feel free to take my original FreeCAD model and add your improvements.
 
 If you like this model, please post a make and leave your comments.
+
+## Links
+
+* stl files available also on [printables.com](https://www.printables.com/) Please download and give a rating there, too.
+* Source on [Github](https://github.com/bickerdyke/PhomenoM120-Spool/)
+
+## License
+- Apache-2.0 license
 
 ## Tags
 
