@@ -56,7 +56,7 @@ If you like this model, please post a make and leave your comments.
 * Source on [Github](https://github.com/bickerdyke/PhomenoM120-Spool/)
 
 ## License
-- Apache-2.0 license
+- BSD-3-Clause license
 
 ## Tags
 
