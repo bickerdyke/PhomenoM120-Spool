@@ -20,7 +20,7 @@ When not in use, place the entire assembly into the storage box to protect the t
 
 ## Compatibility
 
-- Printer: Phomemo M120 (may fit other models, but untested — let me know in the comments!).
+- Printer: Phomeno M120 (may fit other models, but untested — let me know in the comments!).
 - Label Width: Designed for standard rolls up to 50mm.
 
 ## Dimensions
@@ -52,7 +52,7 @@ If you like this model, please post a make and leave your comments.
 
 ## Links
 
-* stl files available also on [printables.com](https://www.printables.com/) Please download and give a rating there, too.
+* stl files available also on [printables.com](https://www.printables.com/](https://www.printables.com/model/1537854-phomeno-m120-spool-storage-box) Please download and give a rating there, too.
 * Source on [Github](https://github.com/bickerdyke/PhomenoM120-Spool/)
 
 ## License
