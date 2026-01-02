@@ -28,7 +28,7 @@ When not in use, place the entire assembly into the storage box to protect the t
 - Box: 79 mm L x 64 mm W x 51,6 mm H
 - Spool: 69 mm L x 50 mm W x 45 mm H
 
-[Dimensions Spool Disc](TechDraw Disc right.pdf)
+[Dimensions Spool Disc](TechDraw_Disc_right.pdf)
 
 [Dimensions Axle](TechDraw_Axle.pdf)
 
