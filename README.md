@@ -2,7 +2,7 @@
 
 ![Project Rendering](images/Sketch_complete.png)
 
-Are you looking for a better way to organize your Phomemo M120 supplies? This project features a replacement spool for the Phomemo M120 thermal printer, along with a storage box to ... well, store it.
+Are you looking for a better way to organize your Phomemo M120 supplies? This project features a replacement spool for the Phomeno M120 thermal printer, along with a storage box to ... well, store it.
 
 ## Solution
 
