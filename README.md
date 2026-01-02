@@ -6,6 +6,8 @@ Are you looking for a better way to organize your Phomemo M120 supplies? This pr
 
 ## Solution
 
+![Build complete](images/PXL_20260102_121925286.jpg)
+
 If you have more than one type of label, changing them means opening the spool, removing the roll trying to not unroll it, storing it somewhere, remember where you put it, and so on.
 
 This model consists of STL-files for additional label spools that you can keep the labels on while not in use and a dedicated container that holds the spool and label roll perfectly.
@@ -17,6 +19,8 @@ Slide your label roll onto the replacement spool.
 Insert the spool into the Phomemo M120 as you would the original.
 
 When not in use, place the entire assembly into the storage box to protect the thermal paper from light and dust.
+
+![Spool in Printer](images/PXL_20260102_121819343.jpg)
 
 ## Compatibility
 
@@ -52,7 +56,7 @@ If you like this model, please post a make and leave your comments.
 
 ## Links
 
-* stl files available also on [printables.com](https://www.printables.com/](https://www.printables.com/model/1537854-phomeno-m120-spool-storage-box) Please download and give a rating there, too.
+* stl files available also on [printables.com](https://www.printables.com/model/1537854-phomeno-m120-spool-storage-box) Please download and give a rating there, too.
 * Source on [Github](https://github.com/bickerdyke/PhomenoM120-Spool/)
 
 ## License
@@ -60,7 +64,7 @@ If you like this model, please post a make and leave your comments.
 
 ## Tags
 
-- Phomemo
+- Phomeno
 - M120
 - LabelPrinter
 - Office
